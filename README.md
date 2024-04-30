@@ -14,3 +14,7 @@ I needed somewhere to throw my computercraft assets 🤷‍♂️
 #### Packman
 
 `pastebin run 4zyreNZy`
+
+random stuff
+https://web.archive.org/web/20230210001358/http://www.computercraft.info/forums2/index.php?/topic/12450-killavanillas-various-apis/
+
